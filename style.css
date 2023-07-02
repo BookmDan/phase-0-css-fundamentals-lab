@@ -2,4 +2,31 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  margin: auto;
+  text-align: center;
+  
+  .center {
+
+  }
+}
+
+#featured-property {
+  width: 800px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption {
+  font-size: 12px;
+  text-align: center;
+}
+
+#details {
+  .div {
+    float : left;
+    background-color: red;
+    width: 25%;
+  }
 }
